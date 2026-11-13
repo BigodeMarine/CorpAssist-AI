@@ -152,6 +152,7 @@ As evidências da implementação e dos testes serão organizadas no diretório 
 ## 9. Acesso à solução
 
 - **Formulário:** [[GOOGLE FORMS](https://docs.google.com/forms/d/e/1FAIpQLSdu9EVH7Z1Sx-o7nx-tF0rHF-ya2ZEbjdAKQ1VoU0JujU2GNw/viewform)]
+- **Sheets:** [[GOOGLE SHEETS](https://docs.google.com/spreadsheets/d/19IChw1XMIY36NwAY7xJzE_71gWF_RPxRM5qpMh_zREM/edit?usp=sharing)]
 - **Cenário do Make:** [[MAKE SCENARIO](https://us2.make.com/public/shared-scenario/PztKdkIu2k5/corp-assist-ai-automacao-de-comunicacao)]
 - **Documentos de demonstração:** [[DOCS DOS TESTES](https://drive.google.com/drive/folders/1vPHdQ16UewZF47ocFDyLsQVfYzp4yLGk?usp=drive_link)]
 
