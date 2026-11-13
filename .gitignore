@@ -1,0 +1,21 @@
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Logs e arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
