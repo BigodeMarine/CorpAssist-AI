@@ -19,9 +19,9 @@ Comparação entre o tempo manual típico (referências de mercado) e o tempo co
 
 | Tipo | Manual (referência) | Com CorpAssist (incl. revisão) | Redução estimada |
 |---|---|---|---|
-| E-mail corporativo | ~6 min | 1 min | 83% |
+| E-mail corporativo | ~6 min | 3 min | 48% |
 | Ata de reunião (reunião de 60 min) | 20–30 min | < 5 min | 75–83% |
-| Comunicado interno | ~2 h (comunicado de maior porte) | < 5 min | ~96% |
+| Comunicado interno | ~2 h (comunicado de maior porte) | < 5 min | 96% |
 
 ### Qualidade: o que os testes demonstraram
 
