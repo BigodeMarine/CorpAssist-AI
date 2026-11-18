@@ -100,3 +100,4 @@ Google Forms → Google Sheets → Make (Watch New Rows) → Make AI Agent (Clau
 - Revisão redobrada em conteúdo com dados pessoais, informações confidenciais, decisões organizacionais ou orientação jurídica.
 - Latência de até 15 min por causa do polling do Make.
 
+<p align="center">Feito com ☕, Forms e um pouco de IA.</p>  
