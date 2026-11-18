@@ -93,8 +93,6 @@ Google Forms → Google Sheets → Make (Watch New Rows) → Make AI Agent (Clau
 4. Envie e aguarde o processamento (até 15 min).
 5. Abra o documento no Google Docs, **revise e aprove** antes de usar.
 
-🔗 **Acesso:** [Formulário](GOOGLE_FORMS_URL) · [Planilha](GOOGLE_SHEETS_URL) · [Cenário Make](MAKE_URL) · [Documentos de demonstração](DOCS_URL)
-
 ## ⚠️ Limitações
 
 - O modelo pode interpretar mal ou deixar passar inconsistências.
